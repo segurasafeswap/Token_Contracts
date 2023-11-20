@@ -3,9 +3,9 @@
 ## Segura Mgmt
 
 * [SeguraSafeSwap Intro](README.md)
-  * [Getting Started with SeguraSafeSwap](segura-mgmt/segurasafeswap-intro/getting-started-with-segurasafeswap.md)
-  * [Roadmap](segura-mgmt/segurasafeswap-intro/roadmap.md)
-  * [For Help, Click Here](segura-mgmt/segurasafeswap-intro/for-help-click-here.md)
+  * [Getting Started with SeguraSafeSwap](segura-mgmt/readme/getting-started-with-segurasafeswap.md)
+  * [Roadmap](segura-mgmt/readme/roadmap.md)
+  * [For Help, Click Here](segura-mgmt/readme/for-help-click-here.md)
 * [Products](segura-mgmt/products/README.md)
   * [Standard Trading Pool](segura-mgmt/products/standard-trading-pool.md)
   * [Automated Market Makers (AMM) Pool](segura-mgmt/products/automated-market-makers-amm-pool.md)
