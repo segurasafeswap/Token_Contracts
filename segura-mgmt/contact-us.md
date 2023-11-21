@@ -10,27 +10,27 @@ At SeguraSafeSwap, we value open communication and are always eager to connect w
 
 For any general questions about SeguraSafeSwap, its features, or services:
 
-* **Email**: [contact@segurasafeswap.i](mailto:contact@segurasafeswap.com)o
+* **Email**: [investments@seguramgmt.com](contact-us.md#contact-us-at-segurasafeswap)
 * **Contact Form**: Fill out our [online form](https://chat.openai.com/c/e0f916f3-333b-4b95-95c8-81650880dfde) for a direct inquiry.
 
 #### Technical Support
 
 If you're experiencing technical issues or need help with specific functionalities:
 
-* **Support Email**: [support@segurasafeswap.i](mailto:support@segurasafeswap.com)o
+* **Support Email**: [brennen@seguramgmt.com](contact-us.md#contact-us-at-segurasafeswap)
 * **Help Center**: Visit our [Help Center](https://chat.openai.com/c/e0f916f3-333b-4b95-95c8-81650880dfde) for FAQs and troubleshooting guides.
 
 #### Partnership and Business Development
 
 Interested in collaborating or exploring business opportunities with SeguraSafeSwap?
 
-* **Business Email**: [partnerships@segurasafeswap.i](mailto:partnerships@segurasafeswap.com)o
+* **Business Email**: [brennen@seguramgmt.com](contact-us.md#contact-us-at-segurasafeswap) / [investments@seguramgmt.com](contact-us.md#contact-us-at-segurasafeswap)
 
 #### Media and Press
 
 For press inquiries, media resources, or interview requests:
 
-* **Press Contact**: [media@segurasafeswap.i](mailto:media@segurasafeswap.com)o
+* **Press Contact**: [brennen@seguramgmt.com](contact-us.md#contact-us-at-segurasafeswap)
 
 #### Social Media
 
@@ -45,7 +45,7 @@ Stay connected and join our conversations online:
 
 Visit us at our headquarters for direct interactions and meetings:
 
-* **Address**: \[Your Office Address]
+* **Address**: 1307 Tool Drive New Iberia, LA 70560
 * **Google Maps**: \[Link to Google Maps]
 
 #### Feedback and Suggestions
