@@ -11,9 +11,9 @@ Welcome to the heartbeat of SeguraSafeSwap – our dedicated team. We are a dive
 Our leaders are trailblazers in the blockchain industry, fostering a culture of innovation and integrity.
 
 * **Founder & CEO**: Brennen Segura – A visionary with deep roots in blockchain technology and a passion for decentralization.
-* **CTO**: \[Name] – Spearheading our technical development with unmatched expertise in smart contract security and scalable architectures.
-* **CFO**: \[Name] – With a keen eye for sustainable growth, leading our financial strategy to new heights.
-* **CMO**: \[Name] – A marketing maestro, crafting our message and connecting with our community worldwide.
+* **CTO**: \[To Be Announced] – Spearheading our technical development with unmatched expertise in smart contract security and scalable architectures.
+* **CFO**: \[To Be Announced] – With a keen eye for sustainable growth, leading our financial strategy to new heights.
+* **CMO**: \[To Be Announced] – A marketing maestro, crafting our message and connecting with our community worldwide.
 
 #### Engineering Excellence
 
